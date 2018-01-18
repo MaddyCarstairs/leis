@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: 350b6d3431fc19e489e0850ac35cb5be
+  productGUID: cb1938dd8bd8cb84f8493fb178371567
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: LEIS
+  productName: leis
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -521,14 +521,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: LEIS
+  metroPackageName: leis
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: LEIS
+  metroApplicationDescription: leis
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -599,11 +599,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 017d6475-d220-4c4f-9009-1088f166fb7c
-  projectName: LEIS (1)
+  cloudProjectId: c7d7709e-d6b6-4637-ab43-885d9b00cba5
+  projectName: leis
   organizationId: unity_4wm9lccpjv8_qg
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
